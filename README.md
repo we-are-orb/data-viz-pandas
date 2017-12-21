@@ -1,6 +1,3 @@
-# Data visualization with Pandas library
+# Introduction to Data visualization using Pandas library
 
-## 1. Introduction
-
-* Steps involved in data-viz using pandas
-* Demonstration of different plots using open datasets.
+* [Article explaining the code](https://medium.com/we-are-orb/introduction-to-data-visualization-with-pandas-21709985ff67)
